@@ -1,0 +1,10 @@
+{
+    "hello": {
+        "one": "",
+        "other": "Hallo"
+    },
+    "exit": {
+        "one": "",
+        "other": "Das Exit"
+    }
+}
